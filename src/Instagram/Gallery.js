@@ -1,5 +1,4 @@
-import img6 from "../Static/avatar4.jpg";
-// import Datas from "./Data";
+
 import getPhotoUrl from "get-photo-url";
 import { useState } from "react";
 import { useLiveQuery } from "dexie-react-hooks";
